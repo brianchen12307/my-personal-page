@@ -4,7 +4,7 @@ export default function About() {
   return (
 <div style={{ display: "flex", alignItems: "center", gap: "2rem", padding: "2rem" }}>
   <img
-    src="./photo.jpg"
+    src="/photo.jpg"
     alt="我的照片"
     style={{
       width: "200px",
